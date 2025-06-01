@@ -5,20 +5,58 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SupunBHerath&label=Profile%20views&color=0e75b6&style=flat" alt="SupunBHerath" /> </p>
 <h3 align="center">"Discovering Tech: A Passionate IT Student's Journey"</h3>
 
+ ## <picture> About me </picture>
+<br>
+<img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif"  />
+
+- 👷 Working on:
+Enhancing Full Stack Development skills.
+
+- 🧑‍🤝‍🧑 Collaborating on:
+Full Stack and UI/UX projects.
+
+- 🤝 Need help with:
+Advanced Java and JavaScript frameworks.
+
+- 🌱 Learning:
+Java, HTML, CSS, JavaScript, Python.
+
+- 💬 Ask me about:
+UI/UX design, Java, Full Stack Development.
+
+- ⚡ Fun fact:
+Nickname: tutta, my gaming minecraft
+<br>
+<br>
 
 <table align="center">
 <tr border="none">
-<td width="70%" align="left">
+<td width="100%" align="left">
   
-  - 👨‍💻 My name is **K.Gavisha Dilneth**  <br>
-  
-  - 🧑‍🎓 I study at **Nalanda College** <br>
-  
-  - 🌱 I’m currently learning **JAVA** and **HTML** <br>
-  
+ 
 </td>
+<br>
+    <br>
+    <div align="center">
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
+ <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+</div>
 
+<br>
 
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
+</div>
+<br><br>
 </tr>
 </table>
 
@@ -30,13 +68,13 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=SupunBHerath&theme=dark&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=GavishaDilneth1&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SupunBHerath&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=GavishaDilneth1&theme=dark&hide_border=false" /> 
 </td>
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SupunBHerath&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=GavishaDilneth1&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
