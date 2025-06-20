@@ -2,7 +2,7 @@
 <h1 align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+Gavisha+Dilneth;Full-Stack+Developer;Always+learning+new+things"></a>
 </h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=SupunBHerath&label=Profile%20views&color=0e75b6&style=flat" alt="SupunBHerath" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=GavishaDilneth1&label=Profile%20views&color=0e75b6&style=flat" alt="GavishaDilneth1" /> </p>
 <h3 align="center">"Discovering Tech: A Passionate IT Student's Journey"</h3>
 
  ## <picture> About me </picture>
